@@ -2,7 +2,8 @@
 ### CDE-2025
 ### Author: Syed Haseeb Shah, Inhan Kim, Hwang Kyung-Eun
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UDvZ7ktPuauhdRbVy2aPTFi_OCaPOX8g?usp=sharing)
+| [![Download PDF](https://img.shields.io/badge/Download-PDF-red?logo=adobeacrobatreader)](https://drive.google.com/file/d/1lwF9v--JdiKYn-DV61k12RA_uj9H3juI/view?usp=sharing) |     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UDvZ7ktPuauhdRbVy2aPTFi_OCaPOX8g?usp=sharing) |     | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/QuantumNovice/CDE-2025-conference-ifc) |     | [![Made with ❤️ for BIM](https://img.shields.io/badge/made%20for-BIM-red.svg)](#) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------------------------- | --- | --------------------------------------------------------------------------------- |
 
 
 [![Repo stars](https://img.shields.io/github/stars/QuantumNovice/CDE-2025-conferenec-ifc?style=flat&logo=github)](https://github.com/QuantumNovice/CDE-2025-conferenec-ifc/stargazers)
